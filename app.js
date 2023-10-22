@@ -5,6 +5,8 @@ const PORT = process.env.PORT || 5000
 const jobs_routes = require('./routes/jobs')
 const app = express();
 const connectDB = require('./db/connect');
+const cors = require('cors');
+app.use(cors());
 
 dotEnv.config();
 console.log(process.env);
