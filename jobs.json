@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "title": "Software Engineer",
+      "company": "Apple",
+      "location": "San Francisco",
+      "description": "Join Apple’s Business Process Re-engineering team as a Front-End Software Engineer where you will help build innovative software applications. You will have development and implementation experience in large scale high-demand applications. Your responsibilities will include all aspects of software development, from design and analysis to development, implementation and maintenance. You are a dedicated and hardworking individual. As a front-end software engineer, you will be a contributing member of a team that implements new application features, improves existing features, while adding performance and software quality metrics to our codebase. You will work closely with business partners, other engineering teams, quality assurance, management, as well as human interface and user experience designers.",
+      "salary": 100000,
+      "postedDate": "2023-10-01"
+    },
+    {
+      "id": 2,
+      "title": "Software Engineer - Front End",
+      "company": "Apple",
+      "location": "San Francisco",
+      "description": "Join Apple’s Business Process Re-engineering team as a Front-End Software Engineer where you will help build innovative software applications. You will have development and implementation experience in large scale high-demand applications. Your responsibilities will include all aspects of software development, from design and analysis to development, implementation and maintenance. You are a dedicated and hardworking individual. As a front-end software engineer, you will be a contributing member of a team that implements new application features, improves existing features, while adding performance and software quality metrics to our codebase. You will work closely with business partners, other engineering teams, quality assurance, management, as well as human interface and user experience designers.",
+      "salary": 105000,
+      "postedDate": "2023-10-01"
+    },
+    {
+      "id": 3,
+      "title": "Full Stack Engineer",
+      "company": "Beekin",
+      "location": "San Francisco",
+      "description": "Join Beekin Business Process Re-engineering team as a Front-End Software Engineer where you will help build innovative software applications. You will have development and implementation experience in large scale high-demand applications. Your responsibilities will include all aspects of software development, from design and analysis to development, implementation and maintenance. You are a dedicated and hardworking individual. As a front-end software engineer, you will be a contributing member of a team that implements new application features, improves existing features, while adding performance and software quality metrics to our codebase. You will work closely with business partners, other engineering teams, quality assurance, management, as well as human interface and user experience designers.",
+      "salary": 200000,
+      "postedDate": "2023-10-01"
+    },
+    {
+      "id": 4,
+      "title": "Director of Engineering",
+      "company": "Beekin",
+      "location": "San Francisco",
+      "description": "Join Beekin Business Process Re-engineering team as a Front-End Software Engineer where you will help build innovative software applications. You will have development and implementation experience in large scale high-demand applications. Your responsibilities will include all aspects of software development, from design and analysis to development, implementation and maintenance. You are a dedicated and hardworking individual. As a front-end software engineer, you will be a contributing member of a team that implements new application features, improves existing features, while adding performance and software quality metrics to our codebase. You will work closely with business partners, other engineering teams, quality assurance, management, as well as human interface and user experience designers.",
+      "salary": 300000,
+      "postedDate": "2023-10-01"
+    },
+    {
+      "id": 5,
+      "title": "Data Scientist",
+      "company": "DataTech",
+      "location": "Los Angeles",
+      "description": "The Senior Analyst – Data Scientist position is responsible for building new Data Science capabilities by operationalizing Big Data platform, monetizing new data assets, and leveraging Machine Learning and Advanced Analytics methodologies. The Data Scientist role provides project specific leadership in building selection & targeting solutions that integrate effectively into existing systems and processes while delivering strong and consistent performance. Working with Customer Management, Marketing, Partnership and broader US Consumer Bank Leadership, the Data Scientist role provides expertise in project design, predictive model development, validation, monitoring, tracking, implementation and/or specification.",
+      "salary": 95000,
+      "postedDate": "2023-10-02"
+    },
+    {
+      "id": 6,
+      "title": "Product Manager",
+      "company": "ProductX",
+      "location": "New York",
+      "description": "This is a full-time on-site role for a Product Manager located in Noida. The Product Manager will be responsible for leading the development and execution of our product roadmap, establishing product development milestones, defining product requirements, and tracking product release schedules. The Product Manager will work cross-functionally with teams from engineering, design, and business development to ensure that the final product meets a high level of quality efficiency, and customer satisfaction.",
+      "salary": 120000,
+      "postedDate": "2023-10-03"
+    },
+    {
+      "id": 7,
+      "title": "Senior Product Manager",
+      "company": "ProductX",
+      "location": "New York",
+      "description": "This is a full-time on-site role for a Product Manager located in Noida. The Product Manager will be responsible for leading the development and execution of our product roadmap, establishing product development milestones, defining product requirements, and tracking product release schedules. The Product Manager will work cross-functionally with teams from engineering, design, and business development to ensure that the final product meets a high level of quality efficiency, and customer satisfaction.",
+      "salary": 120000,
+      "postedDate": "2023-10-03"
+    },
+    {
+      "id": 8,
+      "title": "Project Manager",
+      "company": "ProjectCo",
+      "location": "Chicago",
+      "description": "We are a team of adaptive, self-starting and mission-driven individuals with a passion for doing our best work and bringing our best selves. We are committed to building and establishing a team culture that is rooted in collaboration, growth and a sincere commitment to the well-being of our team and its members. We make sure to invest time to check in on one another, have fun and support each other through the high-paced growth of meeting our vision. This position reports to a Senior Manager in World Wide Consulting Center team. WWCC Senior Manager has held various leadership roles in the high-tech industry before joining VMware and believes that leadership is not defined by title and encourages her team to be leaders and live the values they all bring to the team while being creative to tackle and solve problems together.",
+      "salary": 110000,
+      "postedDate": "2023-10-04"
+    },
+    {
+      "id": 9,
+      "title": "Project Manager",
+      "company": "ProjectCo",
+      "location": "Chicago",
+      "description": "We are a team of adaptive, self-starting and mission-driven individuals with a passion for doing our best work and bringing our best selves. We are committed to building and establishing a team culture that is rooted in collaboration, growth and a sincere commitment to the well-being of our team and its members. We make sure to invest time to check in on one another, have fun and support each other through the high-paced growth of meeting our vision. This position reports to a Senior Manager in World Wide Consulting Center team. WWCC Senior Manager has held various leadership roles in the high-tech industry before joining VMware and believes that leadership is not defined by title and encourages her team to be leaders and live the values they all bring to the team while being creative to tackle and solve problems together.",
+      "salary": 110000,
+      "postedDate": "2023-10-04"
+    },
+    {
+      "id": 10,
+      "title": "Senior Data Scientist",
+      "company": "DataTech",
+      "location": "Los Angeles",
+      "description": "The Senior Analyst – Data Scientist position is responsible for building new Data Science capabilities by operationalizing Big Data platform, monetizing new data assets, and leveraging Machine Learning and Advanced Analytics methodologies. The Data Scientist role provides project specific leadership in building selection & targeting solutions that integrate effectively into existing systems and processes while delivering strong and consistent performance. Working with Customer Management, Marketing, Partnership and broader US Consumer Bank Leadership, the Data Scientist role provides expertise in project design, predictive model development, validation, monitoring, tracking, implementation and/or specification.",
+      "salary": 95000,
+      "postedDate": "2023-10-02"
+    }
+  ]
